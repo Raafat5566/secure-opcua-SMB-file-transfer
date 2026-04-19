@@ -2,7 +2,7 @@
 
 This project implements a secure, industrial-style file transfer pipeline using OPC UA for ingestion and an SMB mover for final delivery.
 
-![System Overview](data/image.png)
+![System Overview](System%20Overview.png)
 
 
 
